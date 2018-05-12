@@ -1,0 +1,29 @@
+_repo: '------_31757'
+_version: 0.1.0
+alternative_title: Omedetaki Hito
+covers:
+- cover_type: archival
+  image_path: 31757-h/images/book_cover.jpg
+creator:
+  author:
+    agent_name: Mushanokoji, Saneatsu
+    alias: 武者小路実篤
+    birthdate: 1885
+    deathdate: 1976
+    gutenberg_agent_id: '35449'
+    url: http://www.gutenberg.org/2009/agents/35449
+    wikipedia: http://en.wikipedia.org/wiki/Saneatsu_Mushanok%C5%8Dji
+description: ''
+gutenberg_issued: '2010-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31757'
+language: ja
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PL'
+title: お目出たき人
+url: http://www.gutenberg.org/ebooks/31757
